@@ -10,3 +10,7 @@ Approximate Adders (e.g., LOA, ETA, Hybrid Adders)
 Approximate Multipliers
 Hybrid Approximate-Exact Designs
 ![Image](https://github.com/user-attachments/assets/e601aa6f-9391-4b12-b2a2-cf63e723dfd1)
+
+Output of the project:
+
+![Image](https://github.com/user-attachments/assets/ddbbd60f-2ec9-4ada-b6ed-257f7a175420)
