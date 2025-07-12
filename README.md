@@ -9,3 +9,4 @@ To develop and evaluate low-power MAC (Multiply-Accumulate) and other DSP module
 Approximate Adders (e.g., LOA, ETA, Hybrid Adders)
 Approximate Multipliers
 Hybrid Approximate-Exact Designs
+![Image](https://github.com/user-attachments/assets/e601aa6f-9391-4b12-b2a2-cf63e723dfd1)
