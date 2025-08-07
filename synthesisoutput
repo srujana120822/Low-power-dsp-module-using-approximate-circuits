@@ -1,0 +1,18 @@
+synthesis output
+ Objective:
+
+      To evaluate the hardware cost of the accurate and approximate DSP modules after synthesis in terms of area, power, and timing.
+
+🔸 Key Activities:
+
+Synthesized the RTL design using a standard-cell library.
+
+Analyzed post-synthesis reports for:
+
+Area (µm²)
+
+Power consumption (mW)
+
+Timing delay (ns)
+
+Cell count
