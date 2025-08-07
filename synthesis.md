@@ -17,3 +17,6 @@ Timing delay (ns)
 
 Cell count
 ![Uploading synthesis output.png…]()
+<img width="1448" height="550" alt="image" src="https://github.com/user-attachments/assets/03949bfa-42b3-49ca-95c2-4b282c568493" />
+![Uploading image.png…]()
+
